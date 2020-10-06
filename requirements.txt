@@ -1,0 +1,16 @@
+python 3.8
+
+# packages
+json 2.0.9
+pandas 1.0.5
+numpy 1.18.5
+re 2.2.1
+sklearn 0.23.1
+seaborn 0.10.1
+matplotlib 3.2.2
+wordcloud 1.8.0
+scipy 1.5.0
+mlxtend 0.17.3
+statsmodels 0.11.1
+tempfile
+shutil
